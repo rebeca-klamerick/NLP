@@ -1,2 +1,3 @@
 # NLP
-Modelo de processamento natural de linguagem 
+O Processamento de Linguagem Natural (NLP) é uma área da inteligência artificial (IA) que permite que os computadores compreendam, interpretem e gerenciem dados de linguagem humana. No contexto de classificação de texto, como detectar mensagens spam ou não spam, o NLP desempenha um papel fundamental ao transformar o texto em uma forma que os modelos de aprendizado de máquina possam entender.
+No nosso caso, o objetivo é construir um modelo simples de classificação binária, onde queremos identificar se uma mensagem é spam (1) ou não spam (0). Para isso, usaremos uma abordagem de aprendizado de máquina com redes neurais.
